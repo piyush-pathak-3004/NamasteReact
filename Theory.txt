@@ -1,0 +1,8 @@
+Q1-  What is Emment?
+Ans- Emment is a web development tool that helps you to create shortcuts for the long code 
+        and ease the writing of HTML,CSS.
+
+
+Q2-  Difference between Library and Framework
+Ans- Framework 
+
